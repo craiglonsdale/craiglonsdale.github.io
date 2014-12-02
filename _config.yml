@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Shut Up! Get Rad!
+tagline:          Nope nope nope! No good at all
+url:              http://github-craiglonsdale.github.io
+paginate:         1
+baseurl:          /craiglonsdale.github.io
+author:
+  name:           Craig Lonsdale
+  url:            https://twitter.com/craiglonsdale
+  email:          craig.lonsdale@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/craiglonsdale/craiglonsdale.github.io
